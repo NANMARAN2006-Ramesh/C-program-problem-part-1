@@ -10,5 +10,5 @@ int main(){
         bill = (100*5)-(units-100)*5;
     }
 
-    PRINTF("Bill amount = RS, %.2f",bill);
+    printf("Bill amount = RS, %.2f",bill);
 }
